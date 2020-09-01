@@ -1,0 +1,43 @@
+p {
+  color: rgb(128, 53, 53);
+  width: 600px;
+  border: 2px solid black;
+}
+html {
+  background-color: #bbc2c9;
+}
+
+h {
+  font-size: 60px;
+  text-align: center;
+}
+
+ul{
+  color: blue;
+
+}
+
+html {
+  font-size: 25px; /* px means "pixels": the base font size is now 10 pixels high  */
+  font-family: "Dancing Inconsolata",monospace; /* this should be the rest of the output you got from Google fonts */
+}
+
+p, li {
+  font-size: 16px;    
+  line-height: 3;
+  letter-spacing: 1px;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #ecbd7a;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+  text-align: center;
+}
+
+img{
+  width: 100px;
+  height: 80px;
+}
