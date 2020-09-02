@@ -7,8 +7,8 @@ html {
   background-color: #bbc2c9;
 }
 
-h {
-  font-size: 60px;
+h5 {
+  font-size: 30px;
   text-align: center;
 }
 
@@ -40,4 +40,10 @@ body {
 img{
   width: 100px;
   height: 80px; 
+}
+
+button{
+  color: rgb(24, 21, 21);
+  font-weight: bold;
+  text-align: left;
 }
